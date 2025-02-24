@@ -1,5 +1,9 @@
 ## Hi there 👋
-![commits](https://raw.githubusercontent.com/1TSnakers/1TSnakers/refs/heads/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake-light.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 <!--
 **1TSnakers/1TSnakers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
