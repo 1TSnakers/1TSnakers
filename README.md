@@ -2,6 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1TSnakers/1TSnakers/refs/heads/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1TSnakers/1TSnakers/refs/heads/output/snake-light.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/1TSnakers/1TSnakers/refs/heads/output/snake-dark.svg">
 </picture>
 <!--
 **1TSnakers/1TSnakers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
