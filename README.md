@@ -6,9 +6,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact">
-  <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact">
+  <img alt="github contribution grid snake animation" src="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark">
 </picture>
 
 <picture>
