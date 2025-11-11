@@ -1,0 +1,55 @@
+name: Bust External Image Cache
+
+on:
+  schedule:
+    # Every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+    # Allow manual trigger from the Actions tab
+  push:
+    paths:
+      - "**/*.md"
+
+permissions:
+  contents: write
+
+jobs:
+  cachebust:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Bust external image cache in Markdown
+        run: |
+          echo "🔄 Busting cache for external images..."
+          TIMESTAMP=$(date +%s)
+
+          for file in $(find . -name "*.md"); do
+            echo "Processing $file"
+
+            # 1️⃣ Add or update cache buster for URLs that already have a query string
+            # Example: https://example.com/image.png?foo=bar → &v=1731325271
+            sed -i -E "s|(\\!\\[[^]]*\\]\\(https?://[^?)]+\\?[^)]*)(\\))|\\1\&v=$TIMESTAMP\\2|g" "$file"
+
+            # 2️⃣ Add or update cache buster for URLs without any query string
+            # Example: https://example.com/image.png → ?v=1731325271
+            sed -i -E "s|(\\!\\[[^]]*\\]\\(https?://[^?)]+)(\\))(?!\?)|\\1?v=$TIMESTAMP\\2|g" "$file"
+
+            # 3️⃣ Replace old ?v=123456789 with new timestamp
+            sed -i -E "s|(\\!\\[[^]]*\\]\\(https?://[^?)]+)\\?v=[0-9]+(\\))|\\1?v=$TIMESTAMP\\2|g" "$file"
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "🔄 Auto-bust external image cache ($(date -u +'%Y-%m-%d %H:%M:%S'))"
+            git push
+          else
+            echo "✅ No Markdown changes to commit."
+          fi
