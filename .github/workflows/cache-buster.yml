@@ -1,0 +1,29 @@
+name: Refresh image URL
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # every 12 hours
+  workflow_dispatch:       # optional manual trigger
+
+jobs:
+  bump-version:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Generate new version value
+        id: version
+        run: echo "ver=$(date +%s)" >> $GITHUB_OUTPUT
+
+      - name: Replace version in README
+        run: |
+          sed -i "s|v=[0-9]*|v=${{ steps.version.outputs.ver }}|g" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git commit -am "Auto-bump cache version"
+          git push
