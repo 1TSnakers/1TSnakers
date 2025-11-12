@@ -1,4 +1,7 @@
 ## Hi there 👋, I am a snake who crawls in server wires
+
+![](https://komarev.com/ghpvc/?username=1TSnakers)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1TSnakers/1TSnakers/refs/heads/output/snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1TSnakers/1TSnakers/refs/heads/output/snake-light.svg">
