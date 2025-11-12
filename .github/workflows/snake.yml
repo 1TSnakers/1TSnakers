@@ -29,6 +29,8 @@ jobs:
             dist/snake-light.gif?palette=github-light
             dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/grey.svg?color_snake=111&color_dots=#eee,#aaa,#888,#666,#444
+            dist/grey.gif?color_snake=111&color_dots=#eee,#aaa,#888,#666,#444
             
       - name: push snake images to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
