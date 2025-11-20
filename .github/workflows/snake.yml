@@ -2,7 +2,7 @@ name: Generate snake animation
 
 on:
   schedule: # execute every hour
-    - cron: "0 */1 * * *"
+    - cron: "0 * * * *"
 
   workflow_dispatch:
 
@@ -27,8 +27,8 @@ jobs:
             dist/snake-dark.gif?palette=github-dark&color_snake=purple&color_dots=#161b22,#01311f,#034525,#0f6d31,#00c647
             dist/snake-light.svg?palette=github-light
             dist/snake-light.gif?palette=github-light
-            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/ocean.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
             dist/grey.svg?color_snake=111&color_dots=#eee,#aaa,#888,#666,#444
             dist/grey.gif?color_snake=111&color_dots=#eee,#aaa,#888,#666,#444
             
