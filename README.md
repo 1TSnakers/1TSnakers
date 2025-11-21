@@ -11,15 +11,15 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1763689547{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&show_icons=true&v=1763689547{{VERSION}}">
-  <img alt="" src="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1763689547{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1763729045{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&show_icons=true&v=1763729045{{VERSION}}">
+  <img alt="" src="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1763729045{{VERSION}}">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1763689547{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&v=1763689547{{VERSION}}">
-  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1763689547{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1763729045{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&v=1763729045{{VERSION}}">
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1763729045{{VERSION}}">
 </picture>
