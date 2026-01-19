@@ -11,23 +11,23 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1768788181{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&show_icons=true&v=1768788181{{VERSION}}">
-  <img alt="" src="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1768788181{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1768827376{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&show_icons=true&v=1768827376{{VERSION}}">
+  <img alt="" src="https://github-readme-stats.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1768827376{{VERSION}}">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1768788181{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&v=1768788181{{VERSION}}">
-  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1768788181{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1768827376{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&v=1768827376{{VERSION}}">
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1768827376{{VERSION}}">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-9xid.vercel.app/?user=1TSnakers&theme=dark&v=1768788181{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-9xid.vercel.app/?user=1TSnakers&theme=dark&v=1768788181{{VERSION}}">
-  <img alt="" src="https://github-readme-streak-stats-9xid.vercel.app/?user=1TSnakers&theme=dark&v=1768788181{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-9xid.vercel.app/?user=1TSnakers&theme=dark&v=1768827376{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-9xid.vercel.app/?user=1TSnakers&theme=dark&v=1768827376{{VERSION}}">
+  <img alt="" src="https://github-readme-streak-stats-9xid.vercel.app/?user=1TSnakers&theme=dark&v=1768827376{{VERSION}}">
 </picture>
