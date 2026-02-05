@@ -30,7 +30,6 @@ jobs:
       - name: Replace version in README
         run: |
           sed -i "s|v=[0-9]*|v=${{ steps.version.outputs.ver }}|g" README.md
-          sed -i "s|v=[0-9]*|v=${{ steps.version.outputs.ver }}|g" dark_only.md
 
       - name: Commit changes
         run: |
