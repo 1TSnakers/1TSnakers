@@ -1,6 +1,7 @@
 ## Hi there 👋, I am a snake who crawls in server wires
 
 ![](https://komarev.com/ghpvc/?username=1TSnakers)
+![](https://hit.yhype.me/github/profile?account_id=162380893)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1TSnakers/1TSnakers/refs/heads/output/snake-dark.svg">
