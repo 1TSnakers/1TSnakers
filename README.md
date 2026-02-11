@@ -28,7 +28,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-9xid.vercel.app/?user=1TSnakers&theme=dark&v=1770815835{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-9xid.vercel.app/?user=1TSnakers&theme=dark&v=1770815835{{VERSION}}">
-  <img alt="" src="https://streak-stats.demolab.com/?user=1TSnakers&theme=dark&v=1770815835{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1770815835{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1770815835{{VERSION}}">
+  <img alt="" src="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1770815835{{VERSION}}">
 </picture>
