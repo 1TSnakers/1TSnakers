@@ -12,23 +12,23 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1771122845{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&show_icons=true&v=1771122845{{VERSION}}">
-  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1771122845{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1771160236{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&show_icons=true&v=1771160236{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1771160236{{VERSION}}">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1771122845{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&v=1771122845{{VERSION}}">
-  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1771122845{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1771160236{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&v=1771160236{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1771160236{{VERSION}}">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1771122845{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1771122845{{VERSION}}">
-  <img alt="" src="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1771122845{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1771160236{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1771160236{{VERSION}}">
+  <img alt="" src="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1771160236{{VERSION}}">
 </picture>
