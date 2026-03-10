@@ -32,3 +32,31 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1773234434{{VERSION}}">
   <img alt="" src="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1773234434{{VERSION}}">
 </picture>
+
+---
+
+## Cool things I made
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=minimax-distillation-project&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=minimax-distillation-project&theme=light&v=1773234434{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=minimax-distillation-project&theme=dark&v=1773234434{{VERSION}}">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ProgressiveImageLoader&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ProgressiveImageLoader&theme=light&v=1773234434{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ProgressiveImageLoader&theme=dark&v=1773234434{{VERSION}}">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ollama-for-godot&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ollama-for-godot&theme=light&v=1773234434{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ollama-for-godot&theme=dark&v=1773234434{{VERSION}}">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=light&v=1773234434{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=dark&v=1773234434{{VERSION}}">
+</picture>
