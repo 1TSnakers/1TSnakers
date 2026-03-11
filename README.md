@@ -12,25 +12,25 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1773234434{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&show_icons=true&v=1773234434{{VERSION}}">
-  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1773265944{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&show_icons=true&v=1773265944{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/?username=1TSnakers&layout=compact&theme=dark&show_icons=true&v=1773265944{{VERSION}}">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1773234434{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&v=1773234434{{VERSION}}">
-  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1773265944{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&v=1773265944{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/top-langs/?username=1TSnakers&layout=compact&theme=dark&v=1773265944{{VERSION}}">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1773234434{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1773234434{{VERSION}}">
-  <img alt="" src="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1773265944{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1773265944{{VERSION}}">
+  <img alt="" src="https://github-readme-streak-stats-1tsnakers.vercel.app/?user=1TSnakers&theme=dark&v=1773265944{{VERSION}}">
 </picture>
 
 ---
@@ -38,25 +38,25 @@
 ## Cool things I made
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=minimax-distillation-project&theme=dark&v=1773234434{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=minimax-distillation-project&theme=light&v=1773234434{{VERSION}}">
-  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=minimax-distillation-project&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=minimax-distillation-project&theme=dark&v=1773265944{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=minimax-distillation-project&theme=light&v=1773265944{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=minimax-distillation-project&theme=dark&v=1773265944{{VERSION}}">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ProgressiveImageLoader&theme=dark&v=1773234434{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ProgressiveImageLoader&theme=light&v=1773234434{{VERSION}}">
-  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ProgressiveImageLoader&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ProgressiveImageLoader&theme=dark&v=1773265944{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ProgressiveImageLoader&theme=light&v=1773265944{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ProgressiveImageLoader&theme=dark&v=1773265944{{VERSION}}">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ollama-for-godot&theme=dark&v=1773234434{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ollama-for-godot&theme=light&v=1773234434{{VERSION}}">
-  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ollama-for-godot&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ollama-for-godot&theme=dark&v=1773265944{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ollama-for-godot&theme=light&v=1773265944{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=ollama-for-godot&theme=dark&v=1773265944{{VERSION}}">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=dark&v=1773234434{{VERSION}}">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=light&v=1773234434{{VERSION}}">
-  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=dark&v=1773234434{{VERSION}}">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=dark&v=1773265944{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=light&v=1773265944{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=dark&v=1773265944{{VERSION}}">
 </picture>
