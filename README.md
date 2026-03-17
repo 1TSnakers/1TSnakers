@@ -60,3 +60,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=light&v=1774007952{{VERSION}}">
   <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=1TSnakers.github.io&theme=dark&v=1774007952{{VERSION}}">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=godot-games&theme=dark&v=1774007952{{VERSION}}">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=godot-games&theme=light&v=1774007952{{VERSION}}">
+  <img alt="" src="https://github-readme-stats-1tsnakers.vercel.app/api/pin/?username=1TSnakers&repo=godot-games&theme=dark&v=1774007952{{VERSION}}">
+</picture>
