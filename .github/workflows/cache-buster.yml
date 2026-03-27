@@ -1,6 +1,9 @@
 name: Refresh image URL
 
 on:
+  push:
+    branches:
+      - "**"
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch:
