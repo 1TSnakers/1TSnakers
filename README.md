@@ -1,10 +1,3 @@
-# STOP EVERYTHING!!! ARTIMIS 2 LAUNCHES IN:
-![Artemis 2 Launch](https://img.shields.io/date/1775082240?label=Artemis%202%20Launch&color=orange&style=for-the-badge&logo=nasa&v=1775082168{{VERSION}})
-
-[Live Broadcast](https://youtu.be/Tf_UjBMIzNo)
-
----
-
 ## Hi there 👋, I am a snake who crawls in server wires
 
 ![](https://komarev.com/ghpvc/?username=1TSnakers)
